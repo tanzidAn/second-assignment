@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* nav section style */
+.nav-item{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 63px;
+}
+.nav-first-title{
+    font-weight: 700;
+    font-size: 45px;
+}
+.nav-dispration ul a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: #424242;
+    font-weight: 500;
+    font-size: 18px;
+}
+/* header section style */
+.header-section{
+    text-align: center;
+    margin-top: 100px;
+}
