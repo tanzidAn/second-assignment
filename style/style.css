@@ -138,13 +138,16 @@ header{
     width: 85%;
 }
 .img-section .img-section-class{
-    padding: 50px 150px;
-    margin-top: -80px;
-    color: #424242;
+    padding: 30px 30px;
+    margin-top: -50px;
+    color: #FFFFFF;
+    background-color: #FF900E;
+    border-radius: 8px;
+    border: 0;
 }
 .img-section {
     margin-top: -70px;
-    margin-left: 40px;
+    /* margin-left: 40px; */
     border-radius: 8px;
 
 }
