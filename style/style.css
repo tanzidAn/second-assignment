@@ -183,10 +183,57 @@ header{
     justify-content: center;
 }
 .card-item{
-    padding: 50px 35px;
+    padding: 35px 35px;
     border: 2px solid #FF900E;
     border-radius: 8px;
     justify-content: center;
     align-items: center;
- 
+}
+.card-number{
+    font-weight: 600;
+    font-size: 35px;
+    color: #424242;
+}
+.card-dispration{
+    font-weight: 600;
+    font-size: 20px;
+    color: #727272;
+}
+.card-item:hover{
+    background-color: black;
+    color: #FFFFFF;
+}
+/* Our Sponspors */
+.last-item{
+    text-align: center;
+    margin-top: 150px;
+}
+.last-title{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+.last-dispration{
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+}
+.last-img-item{
+   text-align: center;
+   margin-top: 50px;
+   margin-left: 30px;
+   margin-bottom: 100px;
+}
+.last-img-item img{
+  margin-right: 90px;
+}
+/* footer section style */
+.footer-section{
+    text-align: center;
+    margin-top: 200px;
+    padding: 30px 80px;
+    color: #424242;
+    background: #FFF4E7;
+    margin: 0 200px;
+    border-radius: 8px;
 }
