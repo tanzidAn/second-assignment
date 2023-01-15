@@ -139,21 +139,19 @@ header{
 }
 .img-section .img-section-class{
     padding: 30px 30px;
-    margin-top: -50px;
     color: #FFFFFF;
     background-color: #FF900E;
-    border-radius: 8px;
+    border-radius: 10px;
     border: 0;
 }
 .img-section {
-    margin-top: -70px;
-    /* margin-left: 40px; */
+    margin-top: -80px;
     border-radius: 8px;
 
 }
 .img-section-class h1{
     font-weight: 700;
-    font-size: 65px;
+    font-size: 55px;
 }
 .img-section-class p{
     font-weight: 500;
